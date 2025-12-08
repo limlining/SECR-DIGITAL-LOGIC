@@ -8,7 +8,7 @@
     
     simple on/off states, implemented physically with transistors and integrated circuits.  
 
-8 MODULE
+9 MODULE
 
 MODULE 1-INTRODUCTORY CONCEPT
 
