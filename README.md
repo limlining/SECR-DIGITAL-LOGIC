@@ -41,3 +41,5 @@ The first lab exercise of digital logic.In this lab, we utilized the ETS-5000 Di
 ![lab2](https://raw.githubusercontent.com//limlining/SECR-DIGITAL-LOGIC/main/lab2.jpg)
 
 The lab 2 is using the deeds to learn connect logic circuit online and do timeline by using deeds.Its is an online tools that helpful in doing lab.
+
+LAB 2:[lab2](https://raw.githubusercontent.com//limlining/SECR-DIGITAL-LOGIC/main/Lab%202.pdf)
