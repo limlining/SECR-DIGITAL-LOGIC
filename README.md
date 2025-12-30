@@ -1,17 +1,14 @@
 # SECR-DIGITAL-LOGIC
 
-    Digital logic is the foundation of all modern computers and electronics, using Boolean algebra (true/false, 1/0) and logic gates (AND, 
-    
-    OR, NOT) to process binary data, forming circuits that execute calculations, store data, and control functions in devices from   
-    
-    microprocessors to phones. It relies on discrete high/low voltage levels to represent these 1s and 0s, enabling complex decisions from 
-    
-    simple on/off states, implemented physically with transistors and integrated circuits.  
-
-    Basiclly, this project is the basic for our programming skill. Without this course, we will more harder to understand the SECJ1013 teaching
-
-    since lot of logic gate, boolean , binary, hexa, ASCII in our programming.
-
+    Digital logic forms the basis of computers and all modern electronic devices. It is performed with the use of Boolean algebra-that is, true or false,
+    1 or 0-along with logic gates such as AND, OR, and NOT-to process binary information. This combination of logic gates builds into digital circuits that
+    perform arithmetic, hold information, and control various functions inside devices such as microprocessors and mobile phones. Digital logic thus uses
+    high and low levels of voltage to represent the 1s and 0s, enabling complex actions based upon simple states.
+    Basically, this project helped me understand the fundamental bases necessary for our programming skills. Without learning this course, 
+    it would be much more difficult for us to comprehend the teaching in SECJ1013. The reason is that many programming concepts, for instance, 
+    logic gates, Boolean expressions, binary, hexadecimal, and ASCII codes, are closely related to digital logic. Through this project, I can see the connection 
+    between hardware logic and programming more clearly.
+   
 9 MODULE
 
 MODULE 1-INTRODUCTORY CONCEPT
