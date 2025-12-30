@@ -8,6 +8,10 @@
     
     simple on/off states, implemented physically with transistors and integrated circuits.  
 
+    Basiclly, this project is the basic for our programming skill. Without this course, we will more harder to understand the SECJ1013 teaching
+
+    since lot of logic gate, boolean , binary, hexa, ASCII in our programming.
+
 9 MODULE
 
 MODULE 1-INTRODUCTORY CONCEPT
