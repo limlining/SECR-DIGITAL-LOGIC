@@ -46,4 +46,4 @@ The lab 2 is using the deeds to learn connect logic circuit online and do timeli
 LAB 2:[lab2](https://raw.githubusercontent.com//limlining/SECR-DIGITAL-LOGIC/main/Lab%202.pdf)
 
 # PROJECT
-
+Our project is using D flip-flop create elevator and enhace some advance like password, emergency ring and light.
