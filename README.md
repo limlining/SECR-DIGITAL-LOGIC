@@ -43,9 +43,42 @@ The first lab exercise of digital logic.In this lab, we utilized the ETS-5000 Di
 
 The lab 2 is using the deeds to learn connect logic circuit online and do timeline by using deeds.Its is an online tools that helpful in doing lab.
 
+🔧 Lab Overview：
+This lab introduces the DEEDS (Digital Electronics Education and Design Suite) online simulator for designing and analyzing digital logic circuits. You will learn to build basic combinational and verify circuit functionality.
+
 LAB 2:[lab2](https://raw.githubusercontent.com//limlining/SECR-DIGITAL-LOGIC/main/Lab%202.pdf)
 
+# Lab 3
+![lab3](https://raw.githubusercontent.com//limlining/SECR-DIGITAL-LOGIC/main/photo_2026-01-21_23-24-38.jpg)
+
+This hands-on lab focuses on implementing synchronous sequential circuits using JK flip-flops on a physical digital logic motherboard. You will design, build, and test various synchronous counters and state machines using actual hardware components.
+
+🎯 Learning Objectives
+
+By completing this lab, you will be able to:
+
+1.Understand the operation and characteristics of JK flip-flops
+
+2.Design synchronous sequential circuits using JK flip-flops
+
+3.Implement circuits on a physical digital logic motherboard
+
+4.Test and debug synchronous circuits using logic analyzers/oscilloscopes
+
+5.Compare synchronous vs. asynchronous circuit behavior
+
 # PROJECT
-Our project is using D flip-flop create elevator and enhace some advance like password, led light when arrived and the correct of password test
 
 ![PROJECT](https://raw.githubusercontent.com/limlining/SECR-DIGITAL-LOGIC/main/project.jpg)
+
+This project designs and implements a 4-floor elevator control system based on D flip-flops, integrating advanced features such as password verification and status indication. The system employs digital logic circuit design with D flip-flops as core storage elements, suitable for implementation on FPGA or digital circuit experimental platforms.
+
+Key Features：
+
+1.Core Logic: State registers composed of D flip-flops for floor control
+
+2.Security Features: 4-digit password verification for accessing specific floors
+
+3.Visual Display: LED floor indicators + 7-segment display
+
+4.Complete Functionality: Supports normal scheduling, arrival notification
